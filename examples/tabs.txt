@@ -1,0 +1,5 @@
+Tabs in this file
+	This line starts with a tab.
+ 	This line mixes a space and a tab.
+		This line starts with two tabs.
+This line is fine.

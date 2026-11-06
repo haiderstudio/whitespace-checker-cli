@@ -1,0 +1,2 @@
+The last line of this file
+has no newline at its end.

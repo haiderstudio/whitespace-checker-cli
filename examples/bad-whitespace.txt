@@ -1,0 +1,5 @@
+A file with bad whitespace
+This line ends with three spaces   
+This line is fine.
+This line ends with a tab	
+This line is fine too.

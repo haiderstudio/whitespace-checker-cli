@@ -1,0 +1,12 @@
+--- check the clean file ---
+OK — 1 file(s) checked, no whitespace problems.
+--- check the files with bad whitespace ---
+FAIL examples/bad-whitespace.txt:2: trailing whitespace
+FAIL examples/bad-whitespace.txt:4: trailing whitespace
+FAIL examples/bad-whitespace.txt:4: tab character
+FAIL examples/no-newline.txt:2: missing final newline
+FAIL examples/tabs.txt:2: tab character
+FAIL examples/tabs.txt:3: tab character
+FAIL examples/tabs.txt:3: mixed indent
+FAIL examples/tabs.txt:4: tab character
+Checked 3 file(s), 8 problem(s) in 3 file(s).

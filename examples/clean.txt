@@ -1,0 +1,5 @@
+Whitespace checker
+
+This file is clean.
+Every line ends with a newline, nothing trails.
+Indents use spaces only.
